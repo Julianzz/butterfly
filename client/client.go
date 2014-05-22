@@ -41,3 +41,5 @@ func main() {
   go pol()
 
   client.Run()
+
+}

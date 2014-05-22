@@ -1,7 +1,7 @@
 package main
 
 import (
-    "butterfly/deps/pty"
+    "github.com/julianzz/butterfly/deps/pty"
     "io"
     "os"
     "os/exec"

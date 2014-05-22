@@ -1,5 +1,12 @@
 
+package main
 
+import (
+	"log"
+	"reflect"
+	"encoding/json"
+	"fmt"
+)
 type Foo struct {
 	FirstName string `tag_name:"tag 1"`
 	LastName  string `tag_name:"tag 2"`

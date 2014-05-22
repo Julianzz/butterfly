@@ -2,7 +2,7 @@ package butterfly
 
 import ( 
 	"github.com/googollee/go-socket.io"
-	"github.com/kr/pty"
+	_ "github.com/kr/pty"
 	"os"
 )
 
